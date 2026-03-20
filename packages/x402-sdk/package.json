@@ -1,0 +1,17 @@
+{
+  "name": "@clawd/x402-sdk",
+  "version": "0.1.0",
+  "description": "TypeScript SDK for the CLAWD LLM Gateway — OpenAI-compatible client with CLAWD burn tracking",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": ["clawd", "llm", "gateway", "sdk", "x402", "ethereum", "base"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  }
+}
