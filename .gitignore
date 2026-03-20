@@ -8,3 +8,5 @@ dist/
 out/
 .turbo/
 *.tsbuildinfo
+*.tsbuildinfo
+package-lock.json
